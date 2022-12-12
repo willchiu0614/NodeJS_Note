@@ -1,4 +1,7 @@
 # Day5 整理code/axios取代ajax
+
+[![hackmd-github-sync-badge](https://hackmd.io/nm-auAKwQgaqMUnZHShqaA/badge)](https://hackmd.io/nm-auAKwQgaqMUnZHShqaA)
+
 ## 將register.js與login.js合併
 未修改register.js
 ```
