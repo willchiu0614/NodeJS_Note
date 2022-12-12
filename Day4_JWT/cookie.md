@@ -1,4 +1,7 @@
 # Day4 JWT/cookie
+
+[![hackmd-github-sync-badge](https://hackmd.io/kQ-jVjhMQ_qmmBXniUtULA/badge)](https://hackmd.io/kQ-jVjhMQ_qmmBXniUtULA)
+
 ## Cookie
 Signed Cookie
 當伺服器端在產生 cookie 時，都會加上 secret 來作 hash，來保證回來的資料沒有被更動過
