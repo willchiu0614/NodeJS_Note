@@ -1,5 +1,8 @@
 # Day1 註冊
 
+[![hackmd-github-sync-badge](https://hackmd.io/NzQqNbJJSMSd0juYBJ8NyA/badge)](https://hackmd.io/NzQqNbJJSMSd0juYBJ8NyA)
+
+
 ## 前端網頁
 ```
 <%- include('header') %>
