@@ -1,5 +1,8 @@
 # Day2 mail認證
 
+[![hackmd-github-sync-badge](https://hackmd.io/rFutrbEzT2CEjXAIACF4Jg/badge)](https://hackmd.io/rFutrbEzT2CEjXAIACF4Jg)
+
+
 ## 安裝nodemailer
 ```npm i nodemailer ```
 ## 取得密碼
