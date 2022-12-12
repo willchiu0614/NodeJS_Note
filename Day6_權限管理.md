@@ -1,4 +1,7 @@
 # Day6 權限管理
+
+[![hackmd-github-sync-badge](https://hackmd.io/TzQxol2OTYeUApcUxHf4EQ/badge)](https://hackmd.io/TzQxol2OTYeUApcUxHf4EQ)
+
 ## 前端
 在表單裡新增權限下拉選項
 ![](https://i.imgur.com/Q32KdfV.jpg)
